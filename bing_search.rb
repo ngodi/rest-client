@@ -42,8 +42,4 @@ class Bing
   end
 end
 
-# puts "Please enter the search string:"
-# search_string = gets.chomp
-# bing_search = Bing.new(search_string)
-# bing_search.conduct_search
-# bing_search.display_search_results
+
